@@ -5,22 +5,22 @@ It is a content based recommender system from the sample dataset for determing t
 ## Steps to utilise this repo
 
 ### Take a clone of this repo: 
-git clone <repository-url>
+git clone https://github.com/mish1102/RecommendationEngine-ContentBased.git
  
 ### Open terminal and run the below command: 
 python3 recommender_system.py
 
 Then you will be asked two questions: 
 
-#### Enter the itemID ranging between 1 to 500: <response1>
+#### Enter the itemID ranging between 1 to 500: "response1"
 
-#### Enter the number of recommendations needed to be displayed:<response2>
+#### Enter the number of recommendations needed to be displayed: "response2"
  
  Mention Item ID in response1 and Number of recommended items you want to get displayed as response2
  
  Your repsonse will look like: 
  '''
- Recommending 5 products similar to <--ItemName--> below::
+ Recommending 5 products similar to (--ItemName--) below::
 -----------------------------------
 Alpine guide pants (score:0.8253856759948797)
 Guide jkt (score:0.20769755384994887)
