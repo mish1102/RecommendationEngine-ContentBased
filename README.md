@@ -22,10 +22,10 @@ Then you will be asked two questions:
  '''
  Recommending 5 products similar to (--ItemName--) below::
 -----------------------------------
-Alpine guide pants (score:0.8253856759948797) \n
-Guide jkt (score:0.20769755384994887)\n
-Guide jkt (score:0.18827991801713145)\n
-Rock guide pants (score:0.16574026828699218)\n
+Alpine guide pants (score:0.8253856759948797) \
+Guide jkt (score:0.20769755384994887)\
+Guide jkt (score:0.18827991801713145)\
+Rock guide pants (score:0.16574026828699218)\
 Lw guide pants (score:0.16373827536275246)
 '''
 
